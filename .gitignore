@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+# generated full-resolution output
+panorama.png
+output/
